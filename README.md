@@ -4,10 +4,10 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    this program out puts the sum of two numbers.
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    Sorta. Becasue it outputs the combined value of the numbers.
 
 ## Run
 Run the program. 
