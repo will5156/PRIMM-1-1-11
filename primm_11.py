@@ -6,10 +6,10 @@ William - 10/1/2024
 
 def main():
     #prompts user for numbers
-    num1: int = int(input("Enter a number: "))
-    num2: int = int(input("Enter another number: "))
+    num1: float = float(input("Enter a number: "))
+    num2: float = float(input("Enter another number: "))
     #add numbers together
-    total: int = num1+num2
+    total: float = num1+num2
     #output
     print(f"{num1} + {num2} = {total}")
 
