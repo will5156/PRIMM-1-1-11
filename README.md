@@ -44,10 +44,10 @@ Run the program.
 | Operator | Meaning |
 |  :---:    |   :---:   |  
 |   `+`    | Addition |
-|   `-`    | your answer |
-|   `*`    | your answer |
-|   `/`    | your answer |
-|   `//`    | your answer |
-|   `**`    | your answer |
-|   `%`    | your answer |
+|   `-`    | sutution |
+|   `*`    | mulitplcation |
+|   `/`    | devision |
+|   `//`    | interger devision |
+|   `**`    | exponent |
+|   `%`    | modgliss |
 
