@@ -12,6 +12,12 @@ def main():
     total: float = num1+num2
     #output
     print(f"{num1} + {num2} = {total}")
+    print(f"{num1} - {num2} = {num1-num2}")
+    print(f"{num1} * {num2} = {num1*num2}")
+    print(f"{num1} / {num2} = {num1/num2}")
+    print(f"{num1} // {num2} = {num1//num2}")
+    print(f"{num1} ** {num2} = {num1**num2}")
+    print(f"{num1} % {num2} = {num1%num2}")
 
 if __name__ == "__main__":
   main()
