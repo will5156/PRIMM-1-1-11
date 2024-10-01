@@ -1,15 +1,16 @@
 """
 PRIMM: 1+1 = 11
 Description of program here
-Name - Date
+William - 10/1/2024
 """
 
 def main():
-  
-    num1: int = input("Enter a number: ")
-    num2: int = input("Enter another number: ")
+    #prompts user for numbers
+    num1: int = int(input("Enter a number: "))
+    num2: int = int(input("Enter another number: "))
+    #add numbers together
     total: int = num1+num2
-
+    #output
     print(f"{num1} + {num2} = {total}")
 
 if __name__ == "__main__":
